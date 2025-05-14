@@ -1,0 +1,1 @@
+python minimize_dfa.py
